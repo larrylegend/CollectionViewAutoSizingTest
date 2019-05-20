@@ -1,0 +1,1 @@
+Hi Larry, I tried the sample and it fixes issues of layout in iOS 12 when first loads the app. However, whenever, I do reload, the weird hight of collection view is added. Would you kindly let me know any suggestions on how to fix that?
